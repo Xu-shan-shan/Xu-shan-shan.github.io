@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LSWT | Xu Shanshan</title>
+    <link>https://Xu-shan-shan.github.io/tag/lswt/</link>
+      <atom:link href="https://Xu-shan-shan.github.io/tag/lswt/index.xml" rel="self" type="application/rss+xml" />
+    <description>LSWT</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 29 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Xu-shan-shan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>LSWT</title>
+      <link>https://Xu-shan-shan.github.io/tag/lswt/</link>
+    </image>
+    
+    <item>
+      <title>Prediction of surface water temperature and its spatial-temporal variation characteristics of 11 main lakes in Yunnan-Guizhou Plateau</title>
+      <link>https://Xu-shan-shan.github.io/publication/journal-article/2023/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://Xu-shan-shan.github.io/publication/journal-article/2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

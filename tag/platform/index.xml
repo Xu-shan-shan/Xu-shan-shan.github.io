@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>platform | Xu Shanshan</title>
+    <link>https://Xu-shan-shan.github.io/tag/platform/</link>
+      <atom:link href="https://Xu-shan-shan.github.io/tag/platform/index.xml" rel="self" type="application/rss+xml" />
+    <description>platform</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Xu-shan-shan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>platform</title>
+      <link>https://Xu-shan-shan.github.io/tag/platform/</link>
+    </image>
+    
+    <item>
+      <title>Design of a multi-scale query platform for China&#39;s PM2.5 Concentration</title>
+      <link>https://Xu-shan-shan.github.io/publication/conference-paper/2020/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://Xu-shan-shan.github.io/publication/conference-paper/2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

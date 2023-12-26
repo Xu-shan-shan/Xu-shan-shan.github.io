@@ -1,33 +1,42 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>article-journal | Academic</title>
-    <link>https://example.com/publication-type/article-journal/</link>
-      <atom:link href="https://example.com/publication-type/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <title>article-journal | Xu Shanshan</title>
+    <link>https://Xu-shan-shan.github.io/publication-type/article-journal/</link>
+      <atom:link href="https://Xu-shan-shan.github.io/publication-type/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>article-journal</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 29 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://Xu-shan-shan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>article-journal</title>
-      <link>https://example.com/publication-type/article-journal/</link>
+      <link>https://Xu-shan-shan.github.io/publication-type/article-journal/</link>
     </image>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://example.com/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+      <title>Prediction of surface water temperature and its spatial-temporal variation characteristics of 11 main lakes in Yunnan-Guizhou Plateau</title>
+      <link>https://Xu-shan-shan.github.io/publication/journal-article/2023/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://Xu-shan-shan.github.io/publication/journal-article/2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban Land Surface Temperature Monitoring and Surface Thermal Runoff Pollution Evaluation Using UAV Thermal Remote Sensing Technology</title>
+      <link>https://Xu-shan-shan.github.io/publication/journal-article/2021/</link>
+      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://Xu-shan-shan.github.io/publication/journal-article/2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internet of things access control model based on blockchain and edge computing</title>
+      <link>https://Xu-shan-shan.github.io/publication/journal-article/2022/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://Xu-shan-shan.github.io/publication/journal-article/2022/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://jackaugust.github.io/files/Internet_of_things_access_control_model_based_on_blockchain_and_edge_computing.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download paper here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This paper is about IoT security. In the cloud-edge-end architecture, try to implement access control based on blockchain and give a SC-ABAC model and a simple prototype. SC-ABAC is Smart Contract for Attribute-Based Access Control, and the POW consensus algorithm has been improved in the prototype.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Congratulations!!!&lt;/strong&gt;&lt;br&gt;
+Until November 17, 2023, this paper was selected as a China Knowledge Network Academic Essentials &lt;strong&gt;Highly Cited Paper&lt;/strong&gt; and &lt;strong&gt;Highly Downloaded Paper&lt;/strong&gt;.&lt;/p&gt;
 </description>
     </item>
     

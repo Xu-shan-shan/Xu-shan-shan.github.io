@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ABE | Xu Shanshan</title>
+    <link>https://Xu-shan-shan.github.io/tag/abe/</link>
+      <atom:link href="https://Xu-shan-shan.github.io/tag/abe/index.xml" rel="self" type="application/rss+xml" />
+    <description>ABE</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Xu-shan-shan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>ABE</title>
+      <link>https://Xu-shan-shan.github.io/tag/abe/</link>
+    </image>
+    
+    <item>
+      <title>A lightweight blockchain-based access control scheme for integrated edge computing in the internet of things</title>
+      <link>https://Xu-shan-shan.github.io/publication/preprint/2021/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://Xu-shan-shan.github.io/publication/preprint/2021/</guid>
+      <description>&lt;p&gt;This paper is about data security in Edge-Iot. To accomplish lightweight encryption outsourcing in an edge-device architecture, improved CP-ABE algorithm. Then to achieve the secure access to IoT data, attempt have been made to implement an attribute-based access control model. Try to build a blockchain network on a restricted terminal, built a lightweight blockchain LBC to adapt to IoT.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Give a specific comparison:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;Comparison of theoretical overhead with other papers on CP-ABE’s outsourced computation;&lt;/li&gt;
+&lt;li&gt;Comparing the cost of lightweight blockchain LBC with private Fabric and Ethereum;&lt;/li&gt;
+&lt;li&gt;Give the implementation algorithm of access control related contracts;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Why not Submit:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;The biggest problem is that the scene is not clear, the research value is not sufficient;&lt;/li&gt;
+&lt;li&gt;Then the security proof is weak, the research content is not specific enough;&lt;/li&gt;
+&lt;li&gt;The security strength between access control and ciphertext is repeated&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Zhang J, Yuan L, Xu S. &lt;em&gt;A lightweight blockchain-based access control scheme for integrated edge computing in the Internet of Things&lt;/em&gt;[J]. arXiv preprint arXiv:2111.06544, 2021.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
