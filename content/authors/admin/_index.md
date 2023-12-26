@@ -17,34 +17,34 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: External Expert
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: School of Geographic Sciences, East China Normal University
+    url: https://english.ecnu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Ecological security and ecosystems.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Atmosphere-Water Vapor Profile
+  - Remote Sensing Inversion
+  - Lake surface Water Temperature
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Physical Geography
+      institution: School of Geographic Sciences, East China Normal University
+      year: currently
+    - course: MEng in Computer Applied Technology
+      institution: School of Information Science and Technology, Yunnan Normal University
+      year: 2022
+    - course: BSc in Computer Science and Technology
+      institution: School of Information Science and Technology, Zhengzhou Normal University
+      year: 2019
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -56,34 +56,34 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: ArcGIS
         description: ''
-        percent: 100
-        icon: chart-line
+        percent: 80
+        icon: earth-americas
         icon_pack: fas
-      - name: SQL
+      - name: Modelling
         description: ''
-        percent: 40
-        icon: database
+        percent: 60
+        icon: puzzle-piece
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
+      - name: Swimming
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: person-drowning
+        icon_pack: fas
+      - name: Football
+        description: ''
+        percent: 60
+        icon: tablets
+        icon_pack: fas
+      - name: Ukulele
+        description: ''
+        percent: 60
+        icon: guitar
         icon_pack: fas
 
 # Social/Academic Networking
@@ -94,10 +94,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+  - icon: blog
+    icon_pack: fas
+    link: https://blog.csdn.net/weixin_47818240
+    label: Follow me on CSDN
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
@@ -105,10 +105,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/Xu-shan-shan
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +117,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Shanshan XU is currently working toward the Ph.D. degree in Physical Geography at the School of Geographic Sciences, East China Normal University. She is currently focusing on research including inversion of remotely sensed imagery, evolution of air-water vapor contours, and hydrological modeling under the supervision of [Prof. Hongming He](https://scholar.google.com/citations?hl=zh-CN&user=O5bRE_QAAAAJ). She has published two papers in the JCR Q2 as the first author.
 {style="text-align: justify;"}
