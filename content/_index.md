@@ -36,6 +36,7 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
+  
   - block: about.biography
     id: about
     content:
@@ -43,29 +44,19 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   
-  - block: accomplishments
+  - block: collection
+    id: news
     content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
-      subtitle:
-      # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: https://xsjy.cnki.net/
-          title: China Knowledge Network Academic Essentials Highly Cited Paper and Highly Downloaded Paper
-          date_end: ''
-          date_start: '2023-08-04'
-          icon: aware
-          organization: Awards 
-          description: |2-
-            *Internet of things access control model based on blockchain and edge computing* was selected as a China Knowledge Network Academic Essentials **Highly Cited Paper** and **Highly Downloaded Paper**
+      title: Recent News
+      subtitle: |-
+        [All News>>](./news/)
+      filters:
+        folders:
+          - news
+        exclude_featured: false
     design:
-      columns: '1'
+      columns: '2'
+      # view: list
   
   - block: collection
     id: featured
@@ -78,35 +69,98 @@ sections:
     design:
       columns: '2'
       view: card
+  
   - block: collection
     content:
       title: Recent Publica&shy;tions
-      # text: |-
-      #   {{% callout note %}}
-      #   Quickly discover relevant content by [filtering publications](./publication/).
-      #   {{% /callout %}}
+      text: |-
+        {{% callout note %}}
+        View all my publication [here](./publication/), and quickly discover relevant content by [filters](./publication/).
+        {{% /callout %}}
       filters:
         folders:
           - publication
-        exclude_featured: true
+        exclude_featured: false
     design:
       columns: '2'
       view: citation
+  
+  - block: portfolio
+  # - block: collection
+    id: projects
+    content:
+      title: Projects
+      filters:
+        folders:
+          - project
+      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
+      default_button_index: 0
+      # count: 3
+      # Filter toolbar (optional).
+      # Add or remove as many filters (`filter_button` instances) as you like.
+      # To show all items, set `tag` to "*".
+      # To filter by a specific tag, set `tag` to an existing tag name.
+      # To remove the toolbar, delete the entire `filter_button` block.
+      buttons:
+        - name: All
+          tag: '*'
+        - name: Foundation
+          tag: Foundation
+        - name: Yunnan
+          tag: Yunnan
+        - name: Yunnan
+          tag: Yunnan
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+      view: showcase
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: false
+ 
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Recent Talks
       filters:
         folders:
           - event
     design:
       columns: '2'
       view: compact
+ 
+  - block: collection
+    id: posts
+    content:
+      title: Recent Blogs
+      subtitle: ''
+      text: ''
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 3
+      # Filter on criteria
+      filters:
+        folders:
+          - post
+        author: ""
+        category: ""
+        tag: ""
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
+    design:
+      # Choose a layout view
+      view: compact
+      columns: '2'
+
   - block: tag_cloud
     content:
-      title: Popular Topics
+      title: "Popular Topics"
     design:
-      columns: '2'
+      columns: '1'
 
   - block: experience
     content:
@@ -144,63 +198,37 @@ sections:
 
     design:
       columns: '2'
-  
-  - block: collection
-    id: posts
+
+  - block: accomplishments
     content:
-      title: Recent Posts
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Accomplish&shy;ments'
+      subtitle:
+      # Date format: https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - certificate_url: https://github.com/Xu-shan-shan/Xu-shan-shan.github.io/blob/master/images/2023-awared-01.png
+          title: "[China Knowledge Network Academic Essentials](https://xsjy.cnki.net/) Highly Cited Paper and Highly Downloaded Paper"
+          date_end: ''
+          date_start: '2023-08-04'
+          icon: aware
+          organization: Awards 
+          description: |2-
+            *Internet of things access control model based on blockchain and edge computing* was selected as a China Knowledge Network Academic Essentials **Highly Cited Paper** and **Highly Downloaded Paper**
+        - title: Second Class Scholarship for Graduate Students of YNNU
+          date_end: '2022-07-01'
+          date_start: '2019-09-01'
+          icon: prize
+          organization: Prizes
+          description: Scholarship (2019-2022) with CNY 5,000/year
     design:
-      # Choose a layout view
-      view: compact
-      columns: '2'
-  
-  - block: portfolio
-    id: projects
-    content:
-      title: Projects
-      filters:
-        folders:
-          - project
-      # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
-      # Filter toolbar (optional).
-      # Add or remove as many filters (`filter_button` instances) as you like.
-      # To show all items, set `tag` to "*".
-      # To filter by a specific tag, set `tag` to an existing tag name.
-      # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
-    design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-      view: showcase
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
-  
+
   - block: skills
     content:
       title: Skills
@@ -210,25 +238,25 @@ sections:
     design:
       columns: '1'
 
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title: Gallery
+  #     subtitle: ''
+  #     text: |-
+  #       {{< gallery album="demo" >}}
+  #   design:
+  #     columns: '1'
   
   - block: contact
-    id: contact
+    # id: contact
     content:
       title: Contact
       subtitle:
       text: |-
-        Please leave a Message if you are interested in my research direction and progress..
+        Please leave a Message if you are interested in my research direction and progress.
       # Contact (add or remove contact options as necessary)
       email: xss_5233@163.com
-      appointment_url: 'https://calendly.com'
+      # appointment_url: 'https://calendly.com'
       address:
         street: No. 500, Dongchuan Road
         city: Shanghai
@@ -238,32 +266,32 @@ sections:
         country_code: CN
       directions: Estuarine Coastal Building 1 and take the stairs to Office 526 on Floor 5
       # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-        latitude: '31.02477'
-        longitude: '121.45144'  
-      contact_links:
-        - icon: blog
-          icon_pack: fas
-          link: https://blog.csdn.net/weixin_47818240
-          name: Follow Me
-        # - icon: skype
-        #   icon_pack: fab
-        #   name: Skype Me
-        #   link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+      # coordinates:
+      #   latitude: '31.02477'
+      #   longitude: '121.45144'  
+      # contact_links:
+      #   - icon: blog
+      #     icon_pack: fas
+      #     link: https://blog.csdn.net/weixin_47818240
+      #     name: Follow Me
+      #   # - icon: skype
+      #   #   icon_pack: fab
+      #   #   name: Skype Me
+      #   #   link: 'skype:echo123?call'
+      #   - icon: video
+      #     icon_pack: fas
+      #     name: Zoom Me
+      #     link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      # form:
+      #   provider: netlify
+      #   formspree:
+      #     id:
+      #   netlify:
+      #     # Enable CAPTCHA challenge to reduce spam?
+      #     captcha: false
     design:
       columns: '2'
 ---

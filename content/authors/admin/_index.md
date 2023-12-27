@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 许姗姗
+title: Shanshan Xu
 
-# Name pronunciation (optional)
-name_pronunciation: Shanshan Xu
+# # Name pronunciation (optional)
+# name_pronunciation: Shanshan Xu
 
 # Full name (for SEO)
 first_name: Shanshan
@@ -25,7 +25,7 @@ organizations:
     url: https://english.ecnu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Ecological security and ecosystems.
+bio: My research interests include Ecological Security and Ecosystems.
 
 # Interests to show in About widget
 interests:
