@@ -212,7 +212,7 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://github.com/Xu-shan-shan/Xu-shan-shan.github.io/blob/master/images/2023-awared-01.png
+        - certificate_url: https://github.com/Xu-shan-shan/Xu-shan-shan.github.io/blob/master/content/news/2023/0817/2023-awared-01.png?raw=true
           title: "[China Knowledge Network Academic Essentials](https://xsjy.cnki.net/) Highly Cited Paper and Highly Downloaded Paper"
           date_end: ''
           date_start: '2023-08-04'
