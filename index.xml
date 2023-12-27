@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Xu Shanshan</title>
+    <title>Shanshan Xu&#39;s homepage</title>
     <link>https://Xu-shan-shan.github.io/</link>
       <atom:link href="https://Xu-shan-shan.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Xu Shanshan</description>
+    <description>Shanshan Xu&#39;s homepage</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://Xu-shan-shan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Xu Shanshan</title>
+      <title>Shanshan Xu&#39;s homepage</title>
       <link>https://Xu-shan-shan.github.io/</link>
     </image>
     
@@ -34,17 +34,27 @@
     
     <item>
       <title>Prediction of surface water temperature and its spatial-temporal variation characteristics of 11 main lakes in Yunnan-Guizhou Plateau</title>
-      <link>https://Xu-shan-shan.github.io/publication/journal-article/2023/</link>
+      <link>https://Xu-shan-shan.github.io/publication/journal-article/2023/jstars-xu/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://Xu-shan-shan.github.io/publication/journal-article/2023/</guid>
+      <guid>https://Xu-shan-shan.github.io/publication/journal-article/2023/jstars-xu/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Blog with Jupyter Notebooks!</title>
-      <link>https://Xu-shan-shan.github.io/post/blog-with-jupyter/</link>
+      <title>November 2023: A paper accepted by JSTARS</title>
+      <link>https://Xu-shan-shan.github.io/news/2023/1129/</link>
+      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://Xu-shan-shan.github.io/news/2023/1129/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;[29/11/23]&lt;/strong&gt; Our paper &lt;a href=&#34;publication/journal-article/2023/jstars-xu/JSTARS-Xu.pdf&#34;&gt;Prediction of surface water temperature and its spatial-temporal variation characteristics of 11 main lakes in Yunnan-Guizhou Plateau&lt;/a&gt; has been accepted by &lt;a href=&#34;https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Congratulations!&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Blog with Jupy12356456!</title>
+      <link>https://Xu-shan-shan.github.io/post/cases/blog-with-jupyter/</link>
       <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://Xu-shan-shan.github.io/post/blog-with-jupyter/</guid>
+      <guid>https://Xu-shan-shan.github.io/post/cases/blog-with-jupyter/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
@@ -66,10 +76,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;png&#34; srcset=&#34;
-               /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp 400w,
-               /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_6b76da17c04a40aee4c1c633206f8065.webp 760w,
-               /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://Xu-shan-shan.github.io/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp&#34;
+               /post/cases/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp 400w,
+               /post/cases/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_6b76da17c04a40aee4c1c633206f8065.webp 760w,
+               /post/cases/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://Xu-shan-shan.github.io/post/cases/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp&#34;
                width=&#34;601&#34;
                height=&#34;203&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -88,10 +98,184 @@
     </item>
     
     <item>
+      <title>September 2023: Shanshan Xu was appointed as an external expert</title>
+      <link>https://Xu-shan-shan.github.io/news/2023/0901/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://Xu-shan-shan.github.io/news/2023/0901/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;[01/09/23]&lt;/strong&gt; Shanshan Xu was appointed as an &lt;strong&gt;external expert&lt;/strong&gt; by &lt;strong&gt;China Railway Construction Group Zhongyuan Construction Co.&lt;/strong&gt; for one year to provide theoretical guidance.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Congratulations!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;2023-awared-01.png&#34; alt=&#34;awared&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>August 2023: A paper selected as highly cited paper and highly downloaded paper</title>
+      <link>https://Xu-shan-shan.github.io/news/2023/0817/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://Xu-shan-shan.github.io/news/2023/0817/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;[04/08/23]&lt;/strong&gt; Our paper &lt;a href=&#34;publication/journal-article/2022/joca-zhang/JOCA-Zhang.pdf&#34;&gt;Internet of things access control model based on blockchain and edge computing&lt;/a&gt; has been selected as a China Knowledge Network Academic Essentials &lt;strong&gt;Highly Cited Paper&lt;/strong&gt; and &lt;strong&gt;Highly Downloaded Paper&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Congratulations!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;awared&#34; srcset=&#34;
+               /news/2023/0817/2023-awared-01_hua6f172114a2b0f299e421cc4611a9cda_599273_3bb8483ef66945b011000815bcd28f50.webp 400w,
+               /news/2023/0817/2023-awared-01_hua6f172114a2b0f299e421cc4611a9cda_599273_f629dc9c954538d10eebeee14e3e9a1e.webp 760w,
+               /news/2023/0817/2023-awared-01_hua6f172114a2b0f299e421cc4611a9cda_599273_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://Xu-shan-shan.github.io/news/2023/0817/2023-awared-01_hua6f172114a2b0f299e421cc4611a9cda_599273_3bb8483ef66945b011000815bcd28f50.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;538&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research on train vibration frequency and propagation characteristics of roadbed and soil</title>
+      <link>https://Xu-shan-shan.github.io/project/theoretical-research-copy/</link>
+      <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://Xu-shan-shan.github.io/project/theoretical-research-copy/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;Key Laboratory of Geographic Information Science, Ministry of Education, East China Normal University, Shanghai, 200241, China&lt;/li&gt;
+&lt;li&gt;School of Geographic Sciences, East China Normal University, Shanghai, 200241, China&lt;/li&gt;
+&lt;li&gt;Key Laboratory of Spatial-temporal Big Data Analysis and Application of Natural Resources in Megacities, Ministry of Natural Resources, Shanghai, 200241, China&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Theoretical Research of Launching and Receiving Hood System for Short Sleeve Without Reinforcement in Shield and Pipe Jacking</title>
+      <link>https://Xu-shan-shan.github.io/project/theoretical-research/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://Xu-shan-shan.github.io/project/theoretical-research/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;Key Laboratory of Geographic Information Science, Ministry of Education, East China Normal University, Shanghai, 200241, China&lt;/li&gt;
+&lt;li&gt;School of Geographic Sciences, East China Normal University, Shanghai, 200241, China&lt;/li&gt;
+&lt;li&gt;Key Laboratory of Spatial-temporal Big Data Analysis and Application of Natural Resources in Megacities, Ministry of Natural Resources, Shanghai, 200241, China&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Implementing .shp boundaries for batch cropping TIF images with Python, processed with some errors</title>
+      <link>https://Xu-shan-shan.github.io/post/2021/0301/</link>
+      <pubDate>Thu, 22 Sep 2022 23:08:21 +0000</pubDate>
+      <guid>https://Xu-shan-shan.github.io/post/2021/0301/</guid>
+      <description>&lt;h2 id=&#34;causes&#34;&gt;Causes&lt;/h2&gt;
+&lt;p&gt;Because the .nc original image to tiff format is also processed by the code, there is some error in the data inside after cropping. No reason for this has been found&lt;/p&gt;
+&lt;h2 id=&#34;ideas&#34;&gt;Ideas&lt;/h2&gt;
+&lt;p&gt;The following code can be compiled with the GUI compiler that comes with ARCGIS, and can also be compiled with the python that comes with ARCGIS PRO, which is also on the Internet to find the relevant code for modification, the source code is now impossible to find, there are a lot of the Internet, and you should have viewed in the process of searching again.&lt;/p&gt;
+&lt;h2 id=&#34;realization-python-code&#34;&gt;Realization: python code&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;arcpy&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;os&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;arcpy&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;CheckOutExtension&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;spatial&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;arcpy&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;env&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;workspace&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;H:/LAB/LABDATA/ECMWF/3/TIF/si10&amp;#34;&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;# 工作目录&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;rasters&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;arcpy&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ListRasters&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;*&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;TIF&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;# 获取所有的TIF影像&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;mask&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;H:/LAB/LABDATA/landsat/shp/caohai2013.shp&amp;#34;&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;# 获取掩膜边界&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;raster&lt;/span&gt; &lt;span class=&#34;ow&#34;&gt;in&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;rasters&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;raster&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;out&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;H:/LAB/LABDATA/ECMWF/3/TIF/caohai/si10/&amp;#34;&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;clip_&amp;#34;&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;raster&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;# 输出路径及文件名&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;arcpy&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Clip_management&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;raster&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;#&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;out&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;mask&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;0&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;ClippingGeometry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;# arcpy调用ARCMAP里的Clip工具&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;clip_&amp;#34;&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;raster&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;  has done&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;All done&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The results are for reference only, if no errors are reported in the middle, when you see this information as shown, it should be correct!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This blog first appeared on &lt;a href=&#34;https://blog.csdn.net/weixin_47818240/article/details/114272879&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CSDN&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning summaries for MODIS data from remote sensing satellites (processing of aerosol level 1, 2 and 3 products)</title>
+      <link>https://Xu-shan-shan.github.io/post/2022/0922/</link>
+      <pubDate>Thu, 22 Sep 2022 23:08:21 +0000</pubDate>
+      <guid>https://Xu-shan-shan.github.io/post/2022/0922/</guid>
+      <description>&lt;h2 id=&#34;introduction-to-modis-data&#34;&gt;Introduction to Modis Data&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnblogs.com/zerobyzero/articles/5948310.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Modis Data&lt;/a&gt; by zerobyzero.&lt;/p&gt;
+&lt;p&gt;The United States launched Terra, the first advanced polar-orbiting environmental remote sensing satellite of the Earth Observing System (EOS), on February 18, 1999, and after the successful launch of Aqua on May 4, 2002, it is able to receive data from two stars per day. It has 36 spectral bands of medium resolution level (0.405um~14.385um) with three different spatial resolutions of 250, 500m and 1000m. It observes the Earth&amp;rsquo;s surface every 1-2 days. Images are acquired of targets such as land and ocean temperatures, primary productivity, land surface cover, clouds, vapor sols, water vapor and fire.&lt;/p&gt;
+&lt;h2 id=&#34;get-modis-data&#34;&gt;Get Modis Data&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://zhajiman.github.io/post/guide_to_modis_aerosol_product/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MODIS secondary aerosol products by Python&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;applications-based-on-modis-data&#34;&gt;Applications Based on MODIS Data&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/428246646&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aerosol Remote Sensing Monitoring&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This blog first appeared on &lt;a href=&#34;https://blog.csdn.net/weixin_47818240/article/details/127001207&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CSDN&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Comprehensive Scientific Investigation Program of the Gaoligong Mountain National Park in Yunnan Province</title>
+      <link>https://Xu-shan-shan.github.io/project/scientific-investigation/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://Xu-shan-shan.github.io/project/scientific-investigation/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;Key Laboratory of Geographic Information Science, Ministry of Education, East China Normal University, Shanghai, 200241, China&lt;/li&gt;
+&lt;li&gt;School of Geographic Sciences, East China Normal University, Shanghai, 200241, China&lt;/li&gt;
+&lt;li&gt;Key Laboratory of Spatial-temporal Big Data Analysis and Application of Natural Resources in Megacities, Ministry of Natural Resources, Shanghai, 200241, China&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The National Key R&amp;D Program of China</title>
+      <link>https://Xu-shan-shan.github.io/project/national-key-rd/</link>
+      <pubDate>Sun, 27 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://Xu-shan-shan.github.io/project/national-key-rd/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;Key Laboratory of Geographic Information Science, Ministry of Education, East China Normal University, Shanghai, 200241, China&lt;/li&gt;
+&lt;li&gt;School of Geographic Sciences, East China Normal University, Shanghai, 200241, China&lt;/li&gt;
+&lt;li&gt;Key Laboratory of Spatial-temporal Big Data Analysis and Application of Natural Resources in Megacities, Ministry of Natural Resources, Shanghai, 200241, China&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A lightweight blockchain-based access control scheme for integrated edge computing in the internet of things</title>
-      <link>https://Xu-shan-shan.github.io/publication/preprint/2021/</link>
+      <link>https://Xu-shan-shan.github.io/publication/preprint/2021/arxiv-zhang/</link>
       <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://Xu-shan-shan.github.io/publication/preprint/2021/</guid>
+      <guid>https://Xu-shan-shan.github.io/publication/preprint/2021/arxiv-zhang/</guid>
       <description>&lt;p&gt;This paper is about data security in Edge-Iot. To accomplish lightweight encryption outsourcing in an edge-device architecture, improved CP-ABE algorithm. Then to achieve the secure access to IoT data, attempt have been made to implement an attribute-based access control model. Try to build a blockchain network on a restricted terminal, built a lightweight blockchain LBC to adapt to IoT.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Give a specific comparison:&lt;/p&gt;
@@ -115,25 +299,25 @@
     
     <item>
       <title>Urban Land Surface Temperature Monitoring and Surface Thermal Runoff Pollution Evaluation Using UAV Thermal Remote Sensing Technology</title>
-      <link>https://Xu-shan-shan.github.io/publication/journal-article/2021/</link>
+      <link>https://Xu-shan-shan.github.io/publication/journal-article/2021/suutainability-xu/</link>
       <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://Xu-shan-shan.github.io/publication/journal-article/2021/</guid>
+      <guid>https://Xu-shan-shan.github.io/publication/journal-article/2021/suutainability-xu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design of a multi-scale query platform for China&#39;s PM2.5 Concentration</title>
-      <link>https://Xu-shan-shan.github.io/publication/conference-paper/2020/</link>
+      <link>https://Xu-shan-shan.github.io/publication/conference-paper/2020/2020iccsmt/</link>
       <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://Xu-shan-shan.github.io/publication/conference-paper/2020/</guid>
+      <guid>https://Xu-shan-shan.github.io/publication/conference-paper/2020/2020iccsmt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internet of things access control model based on blockchain and edge computing</title>
-      <link>https://Xu-shan-shan.github.io/publication/journal-article/2022/</link>
+      <link>https://Xu-shan-shan.github.io/publication/journal-article/2022/joca-zhang/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://Xu-shan-shan.github.io/publication/journal-article/2022/</guid>
+      <guid>https://Xu-shan-shan.github.io/publication/journal-article/2022/joca-zhang/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://jackaugust.github.io/files/Internet_of_things_access_control_model_based_on_blockchain_and_edge_computing.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download paper here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;This paper is about IoT security. In the cloud-edge-end architecture, try to implement access control based on blockchain and give a SC-ABAC model and a simple prototype. SC-ABAC is Smart Contract for Attribute-Based Access Control, and the POW consensus algorithm has been improved in the prototype.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Congratulations!!!&lt;/strong&gt;&lt;br&gt;
@@ -142,10 +326,10 @@ Until November 17, 2023, this paper was selected as a China Knowledge Network Ac
     </item>
     
     <item>
-      <title>Welcome to Hugo Blox Builder, the website builder for Hugo</title>
-      <link>https://Xu-shan-shan.github.io/post/getting-started/</link>
+      <title>Welcome 123s56d  e builder for Hugo</title>
+      <link>https://Xu-shan-shan.github.io/post/cases/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://Xu-shan-shan.github.io/post/getting-started/</guid>
+      <guid>https://Xu-shan-shan.github.io/post/cases/getting-started/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
@@ -223,9 +407,9 @@ Until November 17, 2023, this paper was selected as a China Knowledge Network Ac
     
     <item>
       <title>Writing technical content in Markdown</title>
-      <link>https://Xu-shan-shan.github.io/post/writing-technical-content/</link>
+      <link>https://Xu-shan-shan.github.io/post/cases/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://Xu-shan-shan.github.io/post/writing-technical-content/</guid>
+      <guid>https://Xu-shan-shan.github.io/post/cases/writing-technical-content/</guid>
       <description>&lt;p&gt;Hugo Blox Builder is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p&gt;
@@ -325,7 +509,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-183952467&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-574638219&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -335,7 +519,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-183952467&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-574638219&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -741,24 +925,29 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Example Project</title>
-      <link>https://Xu-shan-shan.github.io/project/example/</link>
+      <title>National Natural Science Foundation of China</title>
+      <link>https://Xu-shan-shan.github.io/project/national-natural-science/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://Xu-shan-shan.github.io/project/example/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+      <guid>https://Xu-shan-shan.github.io/project/national-natural-science/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;Key Laboratory of Geographic Information Science, Ministry of Education, East China Normal University, Shanghai, 200241, China&lt;/li&gt;
+&lt;li&gt;School of Geographic Sciences, East China Normal University, Shanghai, 200241, China&lt;/li&gt;
+&lt;li&gt;Key Laboratory of Spatial-temporal Big Data Analysis and Application of Natural Resources in Megacities, Ministry of Natural Resources, Shanghai, 200241, China&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>https://Xu-shan-shan.github.io/project/external-project/</link>
+      <title>The Second Tibetan Plateau Scientific Expedition and Research Program</title>
+      <link>https://Xu-shan-shan.github.io/project/scientific-er/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://Xu-shan-shan.github.io/project/external-project/</guid>
-      <description></description>
+      <guid>https://Xu-shan-shan.github.io/project/scientific-er/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;Key Laboratory of Geographic Information Science, Ministry of Education, East China Normal University, Shanghai, 200241, China&lt;/li&gt;
+&lt;li&gt;School of Geographic Sciences, East China Normal University, Shanghai, 200241, China&lt;/li&gt;
+&lt;li&gt;Key Laboratory of Spatial-temporal Big Data Analysis and Application of Natural Resources in Megacities, Ministry of Natural Resources, Shanghai, 200241, China&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
   </channel>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Xu Shanshan</title>
+    <title>Publications | Shanshan Xu&#39;s homepage</title>
     <link>https://Xu-shan-shan.github.io/publication/</link>
       <atom:link href="https://Xu-shan-shan.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
@@ -14,17 +14,17 @@
     
     <item>
       <title>Prediction of surface water temperature and its spatial-temporal variation characteristics of 11 main lakes in Yunnan-Guizhou Plateau</title>
-      <link>https://Xu-shan-shan.github.io/publication/journal-article/2023/</link>
+      <link>https://Xu-shan-shan.github.io/publication/journal-article/2023/jstars-xu/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://Xu-shan-shan.github.io/publication/journal-article/2023/</guid>
+      <guid>https://Xu-shan-shan.github.io/publication/journal-article/2023/jstars-xu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A lightweight blockchain-based access control scheme for integrated edge computing in the internet of things</title>
-      <link>https://Xu-shan-shan.github.io/publication/preprint/2021/</link>
+      <link>https://Xu-shan-shan.github.io/publication/preprint/2021/arxiv-zhang/</link>
       <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://Xu-shan-shan.github.io/publication/preprint/2021/</guid>
+      <guid>https://Xu-shan-shan.github.io/publication/preprint/2021/arxiv-zhang/</guid>
       <description>&lt;p&gt;This paper is about data security in Edge-Iot. To accomplish lightweight encryption outsourcing in an edge-device architecture, improved CP-ABE algorithm. Then to achieve the secure access to IoT data, attempt have been made to implement an attribute-based access control model. Try to build a blockchain network on a restricted terminal, built a lightweight blockchain LBC to adapt to IoT.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Give a specific comparison:&lt;/p&gt;
@@ -48,25 +48,25 @@
     
     <item>
       <title>Urban Land Surface Temperature Monitoring and Surface Thermal Runoff Pollution Evaluation Using UAV Thermal Remote Sensing Technology</title>
-      <link>https://Xu-shan-shan.github.io/publication/journal-article/2021/</link>
+      <link>https://Xu-shan-shan.github.io/publication/journal-article/2021/suutainability-xu/</link>
       <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://Xu-shan-shan.github.io/publication/journal-article/2021/</guid>
+      <guid>https://Xu-shan-shan.github.io/publication/journal-article/2021/suutainability-xu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design of a multi-scale query platform for China&#39;s PM2.5 Concentration</title>
-      <link>https://Xu-shan-shan.github.io/publication/conference-paper/2020/</link>
+      <link>https://Xu-shan-shan.github.io/publication/conference-paper/2020/2020iccsmt/</link>
       <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://Xu-shan-shan.github.io/publication/conference-paper/2020/</guid>
+      <guid>https://Xu-shan-shan.github.io/publication/conference-paper/2020/2020iccsmt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internet of things access control model based on blockchain and edge computing</title>
-      <link>https://Xu-shan-shan.github.io/publication/journal-article/2022/</link>
+      <link>https://Xu-shan-shan.github.io/publication/journal-article/2022/joca-zhang/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://Xu-shan-shan.github.io/publication/journal-article/2022/</guid>
+      <guid>https://Xu-shan-shan.github.io/publication/journal-article/2022/joca-zhang/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://jackaugust.github.io/files/Internet_of_things_access_control_model_based_on_blockchain_and_edge_computing.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download paper here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;This paper is about IoT security. In the cloud-edge-end architecture, try to implement access control based on blockchain and give a SC-ABAC model and a simple prototype. SC-ABAC is Smart Contract for Attribute-Based Access Control, and the POW consensus algorithm has been improved in the prototype.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Congratulations!!!&lt;/strong&gt;&lt;br&gt;

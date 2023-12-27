@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>article-journal | Xu Shanshan</title>
+    <title>article-journal | Shanshan Xu&#39;s homepage</title>
     <link>https://Xu-shan-shan.github.io/publication-type/article-journal/</link>
       <atom:link href="https://Xu-shan-shan.github.io/publication-type/article-journal/index.xml" rel="self" type="application/rss+xml" />
     <description>article-journal</description>
@@ -14,25 +14,25 @@
     
     <item>
       <title>Prediction of surface water temperature and its spatial-temporal variation characteristics of 11 main lakes in Yunnan-Guizhou Plateau</title>
-      <link>https://Xu-shan-shan.github.io/publication/journal-article/2023/</link>
+      <link>https://Xu-shan-shan.github.io/publication/journal-article/2023/jstars-xu/</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://Xu-shan-shan.github.io/publication/journal-article/2023/</guid>
+      <guid>https://Xu-shan-shan.github.io/publication/journal-article/2023/jstars-xu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Urban Land Surface Temperature Monitoring and Surface Thermal Runoff Pollution Evaluation Using UAV Thermal Remote Sensing Technology</title>
-      <link>https://Xu-shan-shan.github.io/publication/journal-article/2021/</link>
+      <link>https://Xu-shan-shan.github.io/publication/journal-article/2021/suutainability-xu/</link>
       <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://Xu-shan-shan.github.io/publication/journal-article/2021/</guid>
+      <guid>https://Xu-shan-shan.github.io/publication/journal-article/2021/suutainability-xu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internet of things access control model based on blockchain and edge computing</title>
-      <link>https://Xu-shan-shan.github.io/publication/journal-article/2022/</link>
+      <link>https://Xu-shan-shan.github.io/publication/journal-article/2022/joca-zhang/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://Xu-shan-shan.github.io/publication/journal-article/2022/</guid>
+      <guid>https://Xu-shan-shan.github.io/publication/journal-article/2022/joca-zhang/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://jackaugust.github.io/files/Internet_of_things_access_control_model_based_on_blockchain_and_edge_computing.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download paper here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;This paper is about IoT security. In the cloud-edge-end architecture, try to implement access control based on blockchain and give a SC-ABAC model and a simple prototype. SC-ABAC is Smart Contract for Attribute-Based Access Control, and the POW consensus algorithm has been improved in the prototype.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Congratulations!!!&lt;/strong&gt;&lt;br&gt;

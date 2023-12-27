@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>article | Xu Shanshan</title>
+    <title>article | Shanshan Xu&#39;s homepage</title>
     <link>https://Xu-shan-shan.github.io/publication-type/article/</link>
       <atom:link href="https://Xu-shan-shan.github.io/publication-type/article/index.xml" rel="self" type="application/rss+xml" />
     <description>article</description>
@@ -14,9 +14,9 @@
     
     <item>
       <title>A lightweight blockchain-based access control scheme for integrated edge computing in the internet of things</title>
-      <link>https://Xu-shan-shan.github.io/publication/preprint/2021/</link>
+      <link>https://Xu-shan-shan.github.io/publication/preprint/2021/arxiv-zhang/</link>
       <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://Xu-shan-shan.github.io/publication/preprint/2021/</guid>
+      <guid>https://Xu-shan-shan.github.io/publication/preprint/2021/arxiv-zhang/</guid>
       <description>&lt;p&gt;This paper is about data security in Edge-Iot. To accomplish lightweight encryption outsourcing in an edge-device architecture, improved CP-ABE algorithm. Then to achieve the secure access to IoT data, attempt have been made to implement an attribute-based access control model. Try to build a blockchain network on a restricted terminal, built a lightweight blockchain LBC to adapt to IoT.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Give a specific comparison:&lt;/p&gt;
