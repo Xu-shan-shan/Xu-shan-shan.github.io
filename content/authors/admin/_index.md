@@ -117,5 +117,5 @@ social:
 highlight_name: true
 ---
 
-Shanshan XU is currently working toward the Ph.D. degree in Physical Geography at the School of Geographic Sciences, East China Normal University. She is currently focusing on research including inversion of remotely sensed imagery, evolution of air-water vapor contours, and hydrological modeling under the supervision of [Prof. Hongming He](https://scholar.google.com/citations?hl=en&user=O5bRE_QAAAAJ). She has published two papers in the JCR Q2 as the first author.
+**Shanshan XU** is currently working toward the Ph.D. degree in Physical Geography at the School of Geographic Sciences, East China Normal University. She is currently focusing on research including inversion of remotely sensed imagery, evolution of air-water vapor contours, and hydrological modeling under the supervision of [Prof. Hongming He](https://scholar.google.com/citations?hl=en&user=O5bRE_QAAAAJ). She has published two papers in the JCR Q2 as the first author.
 {style="text-align: justify;"}
