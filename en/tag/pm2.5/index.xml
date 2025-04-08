@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PM2.5 | Shanshan Xu&#39;s homepage</title>
+    <link>https://Xu-shan-shan.github.io/en/tag/pm2.5/</link>
+      <atom:link href="https://Xu-shan-shan.github.io/en/tag/pm2.5/index.xml" rel="self" type="application/rss+xml" />
+    <description>PM2.5</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Xu-shan-shan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>PM2.5</title>
+      <link>https://Xu-shan-shan.github.io/en/tag/pm2.5/</link>
+    </image>
+    
+    <item>
+      <title>Design of a multi-scale query platform for China&#39;s PM2.5 Concentration</title>
+      <link>https://Xu-shan-shan.github.io/en/publication/conference-paper/2020/2020iccsmt/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://Xu-shan-shan.github.io/en/publication/conference-paper/2020/2020iccsmt/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;abstract:&lt;/h2&gt;
+&lt;p style=&#34;text-align: justify;&#34;&gt;With the rapid economic development and the acceleration of urbanization, increase the Concentration of PM2.5, leading to a continuous decline in China&amp;rsquo;s air quality. PM2.5 will cause a series of social problems such as damage to human health, reduced visibility, environmental pollution, and hidden traffic hazards. Many researchers are committed to PM2.5 pollution research, effective and reliable PM2.5 historical data is the basis of these studies. This research will design and develop a data query Visualization platform that provides national monthly, quarterly, and annual average PM2.5 Concentrations. The platform can provide researchers with effective, reliable, and processed data for free, which will greatly reduce the time cost of data processing in the early stage of the experiment and shorten the research cycle.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

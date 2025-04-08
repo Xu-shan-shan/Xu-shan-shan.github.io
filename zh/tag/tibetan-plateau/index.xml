@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tibetan Plateau | 许姗姗的个人主页</title>
+    <link>https://Xu-shan-shan.github.io/zh/tag/tibetan-plateau/</link>
+      <atom:link href="https://Xu-shan-shan.github.io/zh/tag/tibetan-plateau/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tibetan Plateau</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://Xu-shan-shan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Tibetan Plateau</title>
+      <link>https://Xu-shan-shan.github.io/zh/tag/tibetan-plateau/</link>
+    </image>
+    
+    <item>
+      <title>The Second Tibetan Plateau Scientific Expedition and Research Program</title>
+      <link>https://Xu-shan-shan.github.io/zh/project/scientific-er/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://Xu-shan-shan.github.io/zh/project/scientific-er/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;Key Laboratory of Geographic Information Science, Ministry of Education, East China Normal University, Shanghai, 200241, China&lt;/li&gt;
+&lt;li&gt;School of Geographic Sciences, East China Normal University, Shanghai, 200241, China&lt;/li&gt;
+&lt;li&gt;Key Laboratory of Spatial-temporal Big Data Analysis and Application of Natural Resources in Megacities, Ministry of Natural Resources, Shanghai, 200241, China&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

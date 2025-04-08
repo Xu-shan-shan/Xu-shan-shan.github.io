@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modis Data | Shanshan Xu&#39;s homepage</title>
+    <link>https://Xu-shan-shan.github.io/en/tag/modis-data/</link>
+      <atom:link href="https://Xu-shan-shan.github.io/en/tag/modis-data/index.xml" rel="self" type="application/rss+xml" />
+    <description>Modis Data</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Sep 2022 23:08:21 +0000</lastBuildDate>
+    <image>
+      <url>https://Xu-shan-shan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Modis Data</title>
+      <link>https://Xu-shan-shan.github.io/en/tag/modis-data/</link>
+    </image>
+    
+    <item>
+      <title>Learning summaries for MODIS data from remote sensing satellites (processing of aerosol level 1, 2 and 3 products)</title>
+      <link>https://Xu-shan-shan.github.io/en/post/2022/0922/</link>
+      <pubDate>Thu, 22 Sep 2022 23:08:21 +0000</pubDate>
+      <guid>https://Xu-shan-shan.github.io/en/post/2022/0922/</guid>
+      <description>&lt;h2 id=&#34;introduction-to-modis-data&#34;&gt;Introduction to Modis Data&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnblogs.com/zerobyzero/articles/5948310.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Modis Data&lt;/a&gt; by zerobyzero.&lt;/p&gt;
+&lt;p&gt;The United States launched Terra, the first advanced polar-orbiting environmental remote sensing satellite of the Earth Observing System (EOS), on February 18, 1999, and after the successful launch of Aqua on May 4, 2002, it is able to receive data from two stars per day. It has 36 spectral bands of medium resolution level (0.405um~14.385um) with three different spatial resolutions of 250, 500m and 1000m. It observes the Earth&amp;rsquo;s surface every 1-2 days. Images are acquired of targets such as land and ocean temperatures, primary productivity, land surface cover, clouds, vapor sols, water vapor and fire.&lt;/p&gt;
+&lt;h2 id=&#34;get-modis-data&#34;&gt;Get Modis Data&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://zhajiman.github.io/post/guide_to_modis_aerosol_product/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MODIS secondary aerosol products by Python&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;applications-based-on-modis-data&#34;&gt;Applications Based on MODIS Data&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/428246646&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aerosol Remote Sensing Monitoring&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This blog first appeared on &lt;a href=&#34;https://blog.csdn.net/weixin_47818240/article/details/127001207&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CSDN&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
